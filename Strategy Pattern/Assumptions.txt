@@ -1,0 +1,11 @@
+Assumptions:
+
+1) I made the two strategies (Network Manager and Database Manager) using Singleton Pattern because
+   none of them have their private data members. So its memory efficient to make each strategy using singleton
+   pattern. (Concurrency and multi-threading issues are ignored for now to keep it simple)
+
+   Reference:
+	https://codingcraftsman.wordpress.com/2012/04/27/saving-memory-and-the-strategy-pattern/
+
+2) The mobile app is made using singleton pattern because the user should not be allowed to create
+   multiple instances of the same app. 
