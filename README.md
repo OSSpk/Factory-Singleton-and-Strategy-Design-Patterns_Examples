@@ -1,1 +1,4 @@
-# Factory-and-Strategy-Design-Pattern_Example
+# Examples Demonstrating Factory, Singleton and Strategy Design Patterns
+
+## How To Run
+
