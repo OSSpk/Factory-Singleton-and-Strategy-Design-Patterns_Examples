@@ -27,3 +27,14 @@ Hint: Use singleton and strategy pattern.
  * After installing JDK 8, install [NetBeans IDE](https://netbeans.org/downloads/)
 
 2- Open NetBeans IDE. Click on File -> Open Project and browse to the project you want to open say "Factory Method" and select it. It will load the NetBeans project. (There are basically two separate NetBeans Projects named *Factory Method* and *Strategy and Singleton Patterns*)
+
+
+## Contact
+You can get in touch with me on my LinkedIn Profile: [Haris Muneer](https://www.linkedin.com/in/harismuneer/)
+
+## Issues
+If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
+
+## License
+[MIT](../master/LICENSE)
+Copyright (c) 2018-present, harismuneer
